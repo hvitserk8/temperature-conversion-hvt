@@ -1,0 +1,8 @@
+# Virtual enviroment
+venv/
+
+# Pycache
+__pycache__/
+
+# Builded files
+dist/
